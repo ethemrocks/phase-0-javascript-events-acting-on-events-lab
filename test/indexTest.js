@@ -1,3 +1,6 @@
+const chai = require('chai');
+const expect = chai.expect;
+
 require ( './helpers.js' );
 
 describe('moveDodgerLeft()', () => {
